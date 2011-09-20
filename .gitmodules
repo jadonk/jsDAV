@@ -1,9 +1,9 @@
 [submodule "support/async.js"]
 	path = support/async.js
-	url = git@github.com:fjakobs/async.js.git
+	url = git://github.com/fjakobs/async.js.git
 [submodule "support/formidable"]
 	path = support/formidable
-	url = git@github.com:felixge/node-formidable.git
+	url = git://github.com/felixge/node-formidable.git
 [submodule "support/node-o3-xml"]
 	path = support/node-o3-xml
-	url = git@github.com:jadonk/node-o3-xml.git
+	url = git://github.com/jadonk/node-o3-xml.git
